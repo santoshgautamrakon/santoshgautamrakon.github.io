@@ -22,7 +22,7 @@ As the industry moves toward nanosecond-level precision, my work ensures that ti
 ### 🔬 Technical Depth & Research
 My R&D approach is grounded in advanced mathematical frameworks that provide a competitive edge in product development.
 
-#### **Geometric Algebra ($Cl_{3,0}$) in Electromagnetics**
+#### **Geometric Algebra (GA) in Electromagnetics**
 I utilize the Geometric Algebra (GA) framework to simplify the modeling of electromagnetic fields in high-frequency resonators. By expressing Maxwell's Equations in a single multivector form, we can achieve more efficient simulations:
 
 $$\left( \frac{1}{c} \frac{\partial}{\partial t} + \nabla \right) (\mathbf{E} + I c \mathbf{B}) = \frac{\rho}{\epsilon_0} - c \mu_0 \mathbf{J}$$
