@@ -3,8 +3,8 @@ layout: default
 ---
 
 
-# Dr. [Your Name]
-## Senior R&D Engineer | Quantum Information & High-Precision Timing
+#  Santosh Gautam
+## Senior R&D Technician  | Quantum Information & High-Precision Timing
 
 Welcome to my professional R&D portfolio. I am an Electronics Engineer specializing in the intersection of **theoretical physics** and **industrial hardware**. Currently, I am driving innovation at **Rakon**, focusing on the next generation of frequency control for AI, Cloud Computing, and Aerospace.
 
