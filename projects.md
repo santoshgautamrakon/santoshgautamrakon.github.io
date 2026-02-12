@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Industrial Projects & Technical Leadership
 ## Dr. [Your Name] | R&D at Rakon
 
