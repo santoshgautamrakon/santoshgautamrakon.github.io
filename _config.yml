@@ -3,4 +3,6 @@ theme: jekyll-theme-cayman
 #theme: jekyll-theme-architect
 title: Santosh Gautam Portfolio
 description: R&D Engineer | Quantum & High-Precision Timing
+kramdown:
+  math_engine: mathjax
 
