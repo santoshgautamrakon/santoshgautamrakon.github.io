@@ -1,3 +1,8 @@
+
+---
+layout: default
+---
+
 # Research & Advanced Analytical Frameworks
 ## Dr. [Your Name] | Applied Physics & Quantum Information
 
