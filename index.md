@@ -4,9 +4,9 @@ layout: default
 
 
 #  Santosh Gautam
-## Senior Electronics Technician  | Quantum Information & High-Precision Timing
+## Electronics Engineer  | Electromagnetics, Quantum Information & High-Precision Timing
 
-Welcome to my professional R&D portfolio. I am an Electronics Engineer specializing in the intersection of **theoretical physics** and **industrial hardware**. Currently, I am driving innovation at **Rakon**, focusing on the next generation of frequency control for AI, Cloud Computing, and Aerospace.
+Welcome to my professional R&D portfolio. I am an Electronics Engineer specializing in the intersection of **theoretical physics** and **industrial hardware**. Currently, I am driving innovation at **Rakon**, focusing on the next generation of frequency control for AI, Cloud Computing, Aerospace and Quantum Information.
 
 ---
 
