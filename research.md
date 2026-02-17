@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Research & Advanced Analytical Frameworks
-## Dr. [Your Name] | Applied Physics & Quantum Information
+## Santosh Gautam | Electronics Engineering, Applied Physics & Quantum Information
 
 This page provides an overview of my academic research and its application to high-precision engineering. My work focuses on using advanced mathematical structures to optimize the design and performance of frequency control systems.
 
