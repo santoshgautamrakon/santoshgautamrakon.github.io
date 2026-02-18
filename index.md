@@ -43,5 +43,5 @@ $$\left( \frac{1}{c} \frac{\partial}{\partial t} + \nabla \right) (\mathbf{E} + 
 ### 📩 Contact & Collaboration
 I am passionate about working with technical teams through complex integration phases—such as the current **Bourns/Rakon acquisition**—ensuring that proprietary IP is protected and scaled for global markets.
 
-[**Download Technical Impact Summary (PDF)**](#) | [**LinkedIn Profile**](#) | [**Publications**](research.md)
+[**Download Technical Impact Summary (PDF)**](#) | [**LinkedIn Profile**](#) | [**Research**](research.md) | | [**Projects**](projects.md)
  
