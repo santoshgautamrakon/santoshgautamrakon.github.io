@@ -43,6 +43,6 @@ The acquisition by **Bourns Inc.** represents a significant opportunity for glob
 ### Technical Skills & Tools
 * **Hardware:** OCXO/TCXO Design, ASIC Integration, High-Q Resonators.
 * **Software:** MATLAB, Python (Data Analysis), HFSS (Electromagnetic Simulation).
-* **Mathematics:** Geometric Algebra ($Cl_{3,0}$), Maxwellian Calculus, Quantum Logic.
+* **Mathematics:** Geometric Algebra ($$Cl_{3,0}$$), Maxwellian Calculus, Quantum Logic.
 
 [**Return to Home**](index.md) | [**View Academic Research**](research.md)
