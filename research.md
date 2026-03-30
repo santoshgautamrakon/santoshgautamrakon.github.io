@@ -13,7 +13,7 @@ This page provides an overview of my academic research and its application to hi
 ### 1. Geometric Algebra (GA) in Engineering
 During my doctoral research, I focused on the application of **Clifford (Geometric) Algebra** as a unified language for physics and engineering. In my current R&D role, I translate these insights into hardware optimization.
 
-#### **Advanced Electromagnetics ** ($Cl\_{3,0}$)
+#### **Advanced Electromagnetics  ($Cl\_{3,0}$)**
 Traditional vector calculus often obscures the underlying geometry of electromagnetic interactions. By using the **Spacetime Algebra (STA)** framework, I can represent Maxwell’s Equations in a compact, coordinate-independent multivector form:
 
 $$\nabla F = J$$
