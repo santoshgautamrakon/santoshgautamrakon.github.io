@@ -13,7 +13,7 @@ This page provides an overview of my academic research and its application to hi
 ### 1. Geometric Algebra (GA) in Engineering
 During my doctoral research, I focused on the application of **Clifford (Geometric) Algebra** as a unified language for physics and engineering. In my current R&D role, I translate these insights into hardware optimization.
 
-#### **Advanced Electromagnetics  $$Cl\_{3,0}$$**
+#### **Advanced Electromagnetics  $$Cl_{3,0}$$**
 Traditional vector calculus often obscures the underlying geometry of electromagnetic interactions. By using the **Spacetime Algebra (STA)** framework, I can represent Maxwell’s Equations in a compact, coordinate-independent multivector form:
 
 $$\nabla F = J$$
@@ -29,7 +29,7 @@ My research at the **University of Auckland** and **Sheffield Hallam** involved 
 #### **Pauli Gate Logic & Quantum Timing**
 The transition to **Quantum Key Distribution (QKD)** and quantum networking requires timing references with unprecedented stability.
 
-* **Pauli Operators:** Expertise in the $$X, Y, Z$$ Pauli matrices and their representation within the $$Cl\_{3,0}$$ algebra. I explore how the geometric interpretation of these gates can lead to more robust quantum circuit designs.
+* **Pauli Operators:** Expertise in the $$X, Y, Z$$ Pauli matrices and their representation within the $$Cl_{3,0}$$ algebra. I explore how the geometric interpretation of these gates can lead to more robust quantum circuit designs.
 * **Quantum-Secure Synchronization:** Developing the roadmap for timing modules that support the ultra-low jitter requirements of single-photon detectors used in quantum communication.
 
 ---
