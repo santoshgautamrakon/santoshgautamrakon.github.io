@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Industrial Projects & Technical Leadership
-## Dr. [Your Name] | R&D at Rakon
+## Santosh Gautam | R&D at Rakon
 
 This section details my contributions to Rakon’s core product lines and my role in aligning our technology with the 2026-2028 Strategic Roadmap.
 
